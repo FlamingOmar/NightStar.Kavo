@@ -117,11 +117,11 @@ local themeStyles = {
 
         Background = Color3.fromRGB(0, 0, 0),
 
-        Header = Color3.fromRGB(10, 10, 10),
+        Header = Color3.fromRGB(0, 0, 0),
 
         TextColor = Color3.fromRGB(255,255,255),
 
-        ElementColor = Color3.fromRGB(10, 10, 10)
+        ElementColor = Color3.fromRGB(0, 0, 0)
     }
 }
 local oldTheme = ""
